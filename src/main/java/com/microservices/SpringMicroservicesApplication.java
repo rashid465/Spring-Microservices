@@ -9,7 +9,6 @@ public class SpringMicroservicesApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringMicroservicesApplication.class, args);
 		System.out.println("Hello ");
-		System.out.println("Hii  ");
 	}
 
 }
